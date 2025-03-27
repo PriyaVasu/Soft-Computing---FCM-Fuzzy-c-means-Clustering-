@@ -7,5 +7,5 @@
 - Iris Dataset
 
 ### Results: 
-![image alt]()
+![image alt](https://github.com/PriyaVasu/Soft-Computing---FCM-Fuzzy-c-means-Clustering-/blob/6b5ca84244c213946f491870d2ef890e9d6a809a/pyplot.png)
 
